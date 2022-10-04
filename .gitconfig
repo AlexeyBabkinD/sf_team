@@ -1,5 +1,0 @@
-[user]
-	name = Alexey Babkin
-	mail = alexey.babkin.d@gmail.com
-[alias]
-	history = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
